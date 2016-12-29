@@ -6,7 +6,7 @@
   <display-name>Restful Web Application</display-name>
   
   	<servlet>
-		<servlet-name>jersey-serlvet</servlet-name>
+		<servlet-name>jersey-servlet</servlet-name>
 		<servlet-class>
                      com.sun.jersey.spi.container.servlet.ServletContainer
                 </servlet-class>
